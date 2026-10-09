@@ -1,0 +1,12 @@
+dist/
+bin/
+obj/
+TestResults/
+.vs/
+*.user
+python/dist/
+python/build/
+python/*.egg-info/
+python/screenextend/bin/
+__pycache__/
+%TEMP%/
